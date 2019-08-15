@@ -1,0 +1,28 @@
+{
+  "name": "me.snkh.jl_bot",
+  "version": "1.0.0",
+  "description": "JL BOT",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iSnkh/JL_BOT.git"
+  },
+  "keywords": [
+    "jl"
+  ],
+  "author": "Alexis 'Snkh' M.",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/iSnkh/JL_BOT/issues"
+  },
+  "homepage": "https://github.com/iSnkh/JL_BOT#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "chalk": "^2.4.2",
+    "dotenv": "^8.0.0",
+    "twitter": "^1.7.1"
+  }
+}
